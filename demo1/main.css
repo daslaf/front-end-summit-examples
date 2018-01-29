@@ -1,0 +1,15 @@
+article {
+  border: 1px solid #ddd;
+  margin: 15px 0;
+  padding: 15px;
+}
+
+.lead {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.foo {
+  color: red;
+  font-size: 24px;
+}
